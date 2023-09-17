@@ -25,8 +25,8 @@ b) In eval.py, evaluate the performance of your previously trained model on the 
 # Deadline and Report
 Please upload to your repository a PDF file names Lastname_SSL.pdf. \
 Deadline: Oct 16, 2023, 23:59
-# Reference
-VICREG: VARIANCE-INVARIANCE-COVARIANCE REGULARIZATION FOR SELF-SUPERVISED LEARNING: https://arxiv.org/pdf/2105.04906.pdf
+# References
+VICREG: VARIANCE-INVARIANCE-COVARIANCE REGULARIZATION FOR SELF-SUPERVISED LEARNING: https://arxiv.org/pdf/2105.04906.pdf \
 VICRegL: Self-Supervised Learning of Local Visual Features: https://proceedings.neurips.cc/paper_files/paper/2022/file/39cee562b91611c16ac0b100f0bc1ea1-Paper-Conference.pdf
 # Credits
 The code in this respository is a modified version of https://github.com/augustwester/vicreg.
