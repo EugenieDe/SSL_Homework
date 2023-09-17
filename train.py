@@ -74,6 +74,6 @@ for epoch in progress:
             "projector_dim": projector_dim,
             "model_state_dict": model.state_dict(),
             "optimizer_state_dict": opt.state_dict()
-        },"checkpoint_2.pt")
+        },"checkpoint.pt")
 
     
