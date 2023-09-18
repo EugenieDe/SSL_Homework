@@ -1,7 +1,10 @@
 # SSL_Homework
 ![image](https://github.com/EugenieDe/SSL_Homework/assets/104826934/5030641b-eddd-496c-8873-1ed436093bbe)
 
-
+## Main Requirements
+* torch = 1.13.0
+* torchvision = 0.14.0
+* tqdm = 4.64.1
 
 ## Part 1: VICReg on CIFAR-10 (2 points)
 In this tutorial, you are going to implement VICReg on the CIFAR-10 dataset. \
