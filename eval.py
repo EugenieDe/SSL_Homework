@@ -69,7 +69,10 @@ num_correct = len(cifar_test_data)
 for images, labels in cifar_test_dataloader:
     images, labels = images.to(device), labels.to(device)
     encoder_out = model.encoder(images)
-    pred = linear(encoder_out).argmax(-1)
-    num_incorrect = torch.count_nonzero(pred-labels)
+    
+    #TODO: LINEAR CLASSIFIER
+    #preds =
+    
+    num_incorrect = torch.count_nonzero(preds-labels)
     num_correct -= num_incorrect
 print("Accuracy:", num_correct / len(cifar_test_data))
