@@ -14,7 +14,7 @@ c) Look at loss.py and train.py. Now implement the loss under the TODO in line 6
 
 ## Part 2: Evaluation (1 point)
 To evaluate the performance of your model, you are going to implement a linear classifier and calculate the accuracy of your model on the CIFAR-10 dataset. \
-a) Look at eval.py. Implement the linear classifier on lines 24 and 58. \
+a) Look at eval.py. Implement the linear classifier on lines 24, 58 and 74. \
 b) As you can see, there is a training step on the CIFAR-10 dataset. What exactly are we training here?
 
 ## Part 3: Hyperparameters Experiments (1 point)
